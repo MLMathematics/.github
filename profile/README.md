@@ -1,4 +1,5 @@
-<h1 align="center">🌌 MLMathematics.com</h1>
+<p align="center"><img src="mlmathematics-logo-h.png" alt="MLMathematics Logo" width="250" /></p>
+<h1 align="center"> MLMathematics.com</h1>
 <p align="center"><i>Reimagining Intelligence Through Visual Learning</i></p>
 
 <p align="center">
@@ -86,7 +87,7 @@ This organization follows best practices in:
 
 ## 📬 Contact & Community
 
-* 💌 Email: [hello@mlmathematics.com](mailto:hello@mlmathematics.com)
+* 💌 Email: [contact@mlmathematics.com](mailto:contact@mlmathematics.com)
 * 🌐 Website: [https://mlmathematics.com](https://mlmathematics.com)
 * 💬 Coming soon: [Community Page](https://mlmathematics.com/community)
 
@@ -98,7 +99,7 @@ This organization follows best practices in:
 
 Thanks for visiting our GitHub space. Let’s make intelligence beautiful together. 🌌
 
-<!-- This is a comment. It will not be visible in the rendered Markdown output. -->
+<!-- This is a comment. It will not be visible in the rendered Markdown output.
 
 ## 👨‍💻 Contribute With Us
 
@@ -121,3 +122,4 @@ npm install && npm run dev
 ````
 
 🗂 Refer to individual project folders for contribution guidelines.
+ -->
